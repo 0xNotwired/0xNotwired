@@ -1,55 +1,56 @@
-<!--
-  ─────────────────────────────────────────────────────────────────────────
-  Profile README  ·  repo: saiefr/saiefr  ·  archivo: README.md
-  REQUISITO: subí también  terminal.svg  a la raíz del repo.
-  Si la animación no arranca: caché de GitHub → Ctrl+Shift+R.
-  ─────────────────────────────────────────────────────────────────────────
--->
-
 <div align="center">
 
-[![saiefr — terminal](https://raw.githubusercontent.com/saiefr/saiefr/main/terminal.svg)](https://github.com/saiefr)
+<a href="https://github.com/0xNotwired">
+  <img src="./terminal.svg" width="100%" alt="0xNotwired — Cybersecurity, low-level programming, malware analysis and reverse engineering. From source to assembly. From bytes to behavior." />
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=saiefr&color=e8a838&style=flat-square&label=visitors" alt="profile views" />
+# Samuel · 0xNotwired
+
+**Cybersecurity · Low-level programming · Malware analysis · Reverse engineering**
+
+[GitHub](https://github.com/0xNotwired) · [LinkedIn](https://www.linkedin.com/in/sramos10/)
 
 </div>
 
-### `saiefr@cs:~$ git log --stat`
+---
 
-<div align="center">
+### `$ whoami`
 
-<img height="160" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=saiefr&show_icons=true&hide_border=false&bg_color=26202c&title_color=e8a838&text_color=e6c2a0&icon_color=cc5566&border_color=7a5e72" />
-&nbsp;
-<img height="160" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiefr&layout=compact&hide_border=false&bg_color=26202c&title_color=e8a838&text_color=e6c2a0&border_color=7a5e72" />
+I'm Samuel, based in Argentina. I'm interested in understanding software from source code down to memory, machine instructions, and runtime behavior.
 
-<br/><br/>
+My focus is on cybersecurity and systems fundamentals: how programs work, how they fail, and what their binaries can tell us. I enjoy learning by reading code, building small experiments, and working through the details.
 
-<img height="160" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saiefr&background=26202c&ring=e8a838&fire=cc5566&currStreakLabel=e8a838&sideLabels=e6c2a0&dates=7a5e72&stroke=7a5e72&border=7a5e72&sideNums=e6c2a0&currStreakNum=ffc658&dayLabels=e6c2a0&hide_border=false" />
+### `$ cat interests.md`
 
-</div>
+| Area | What draws me in |
+| :--- | :--- |
+| **Cybersecurity** | Vulnerability research, memory safety, attack surfaces, and understanding the assumptions behind secure systems. |
+| **Low-level programming** | C, assembly, operating systems, memory management, and the boundary between software and hardware. |
+| **Malware analysis** | Static and dynamic analysis, suspicious behavior, executable formats, and turning observations into an explanation. |
+| **Reverse engineering** | Disassembly, debugging, control flow, and reconstructing how a program works from its binary. |
 
-### `saiefr@cs:~$ cat ~/.stack`
+### `$ cat learning.log`
+
+- **Below the source:** connecting C code with assembly, memory layout, and execution.
+- **Inside the OS:** processes, virtual memory, system calls, and how programs interact with the kernel.
+- **Inside the binary:** exploring ELF and PE files, tracing control flow, and understanding runtime behavior.
+
+### `$ cat ~/.stack`
 
 ```text
-languages   python · c · 
-learning    operating systems · calculus
-tools       git · linux · obsidian · helix · zellij · fish
-interests   AI · mathematics · LegalTech
+languages   C · Python
+environment Linux · fish · Git
+workspace   Helix · Zellij · Obsidian
+exploring   Assembly · binary analysis · OS internals
 ```
 
-### `saiefr@cs:~$ ./contact --open`
+### `$ ./connect`
+
+Interested in exchanging notes, discussing systems internals, or learning together?
+Find me on [GitHub](https://github.com/0xNotwired) or [LinkedIn](https://www.linkedin.com/in/sramos10/).
+
+---
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sramos10-26202c?style=flat-square&logo=linkedin&logoColor=7a8fc4)](https://www.linkedin.com/in/sramos10/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-saiefr-26202c?style=flat-square&logo=github&logoColor=e8a838)](https://github.com/saiefr)
-
-</div>
-
-<div align="center">
-<br/>
-<sub><code>saiefr@cs:~$ cat now.txt</code></sub>
-<br/>
-<sub><code>be magnificent.</code></sub>
+  <sub><code>Read the source. Trace the execution. Understand the behavior.</code></sub>
 </div>
