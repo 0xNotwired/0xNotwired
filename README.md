@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/0xNotwired">
-  <img src="./terminal.svg" width="100%" alt="0xNotwired — Cybersecurity, low-level programming, malware analysis and reverse engineering. From source to assembly. From bytes to behavior." />
+  <img src="./terminal.svg" width="760" alt="Animated CRT terminal introducing 0xNotwired and interests in cybersecurity, low-level programming, malware analysis and reverse engineering." />
 </a>
 
 # Samuel · 0xNotwired
